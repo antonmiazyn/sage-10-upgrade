@@ -5,5 +5,8 @@ dist
 node_modules
 npm-debug.log
 yarn-error.log
-/vendor
-resources/assets/config-local.json
+**/vendor
+**/resources/assets/config-local.json
+.env
+wp-config.php
+password.txt
